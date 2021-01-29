@@ -1,0 +1,8 @@
+tags
+.*.un~
+.swp
+.*.swp
+.vimrc
+.syntastic_c_config
+bin/*
+obj/*
